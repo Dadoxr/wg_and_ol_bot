@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+__pycache__
+*.pyc
+*.pyo
+__pycache__
+*.pyc
+*.pyo
+*.egg-info
+dist/
+build/
+*.log
+
+# Virtual Environment
+.venv/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Logs
+logging.log
+logs/
+
+# Old files
+old/
+
+# Additional files and directories
+todo.doc
+.DS_Store
+__pycache__
+logs
+.vscode/
+examples/
+Запросы в БД.txt
